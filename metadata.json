@@ -1,0 +1,8 @@
+{
+  "name": "Remix مجمع الشريعة التعليمي تواصل ",
+  "description": "منصة إدارية متكاملة خاصة بمجمع الشريعة التعليمي التابع للإدارة العامة للتعليم بجازان، لإدارة الموظفين والعمليات التعليمية بمجمع الشريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
